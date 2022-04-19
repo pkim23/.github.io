@@ -62,14 +62,6 @@ export class GlobalVars {
                     logo: 'https://www.vectorlogo.zone/logos/python/python-icon.svg',
                 },
                 {
-                    title: 'JavaScript',
-                    logo: 'https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg',
-                },
-                {
-                    title: 'Rust',
-                    logo: 'https://www.rust-lang.org/static/images/rust-logo-blk.svg',
-                },
-                {
                     title: 'SQL',
                     logo: 'https://www.svgrepo.com/show/255832/sql.svg',
                 },
@@ -86,56 +78,8 @@ export class GlobalVars {
                     logo: 'https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg',
                 },
                 {
-                    title: 'VBScript',
-                    logo: 'https://banner2.kisspng.com/20180409/cxe/kisspng-vbscript-scripting-language-visual-basic-microsoft-analyst-5acc162b6da676.9666584115233244594491.jpg',
-                },
-                {
-                    title: 'Batch',
-                    logo: 'https://cdn0.iconfinder.com/data/icons/software-4/24/console_command_prompt_shell_program-512.png',
-                },
-                {
                     title: 'Bash/Shell/PowerShell',
                     logo: 'https://docs.microsoft.com/en-us/powershell/media/index/powershell_128.svg',
-                },
-                {
-                    title: 'TypeScript',
-                    logo: 'https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg',
-                },
-                {
-                    title: 'PHP',
-                    logo: 'https://www.vectorlogo.zone/logos/php/php-icon.svg',
-                },
-                {
-                    title: 'Ruby',
-                    logo: 'https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg',
-                },
-                {
-                    title: 'Kotlin',
-                    logo: 'https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg',
-                },
-                {
-                    title: 'Dart',
-                    logo: 'https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg',
-                },
-                {
-                    title: 'Pug',
-                    logo: 'https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg'
-                },
-                {
-                    title: 'XML',
-                    logo: 'https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg'
-                },
-                {
-                    title: 'C#',
-                    logo: "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
-                },
-                {
-                    title: 'QML',
-                    logo: "https://s3-eu-west-1.amazonaws.com/qt-showroom/uploads/2014/08/qml_creator_icon512-300x300.png"
-                },
-                {
-                    title: 'R',
-                    logo: "https://www.r-project.org/Rlogo.png"
                 },
 
 
@@ -307,45 +251,14 @@ export class GlobalVars {
             text: "Human Languages",
             arr: [
                 {
-                    title: 'Bengali',
-                    desc: "Native",
-                    logo: 'https://www.flaticon.com/premium-icon/icons/svg/3097/3097000.svg',
-                },
-                {
-                    title: 'Chittagonian',
-                    desc: "Native",
-                    logo: 'https://www.flaticon.com/premium-icon/icons/svg/3097/3097008.svg',
-                },
-                {
                     title: 'English',
                     desc: "Fluent",
                     logo: 'https://www.flaticon.com/premium-icon/icons/svg/3097/3097023.svg',
                 },
                 {
-                    title: 'Arabic',
-                    desc: "Mediocre",
-                    logo: 'https://www.flaticon.com/premium-icon/icons/svg/3096/3096991.svg',
-                },
-
-                {
-                    title: 'Hindi',
-                    desc: "Conversational",
-                    logo: 'https://www.flaticon.com/premium-icon/icons/svg/3097/3097042.svg',
-                },
-                {
-                    title: 'Urdu',
-                    desc: "Conversational",
-                    logo: 'https://www.flaticon.com/premium-icon/icons/svg/3097/3097115.svg',
-                },
-                {
                     title: 'Korean',
-                    desc: "Beginner",
+                    desc: "Fluent",
                     logo: 'https://www.flaticon.com/premium-icon/icons/svg/3097/3097055.svg',
-                },
-                {
-                    title: 'Mandarin',
-                    desc: "Beginner",
-                    logo: 'https://www.flaticon.com/premium-icon/icons/svg/3097/3097067.svg',
                 },
             ]
         },
@@ -463,7 +376,7 @@ export class GlobalVars {
 
     static works: Array<TitledListItemInterface> = [
         {
-            text: "Android Apps",
+            text: "Projects",
             arr: [
                 {
                     title: 'Desplash',
